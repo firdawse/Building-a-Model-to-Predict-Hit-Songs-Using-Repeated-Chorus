@@ -8,12 +8,6 @@ This is a Web Application Project, aims to Predict whether a new released song w
 
 [Team Members](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#prepared-by)
 
-[Team Leads](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#team-leads)
-
-[Instructor](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#instructor)
-
-[Project Owner](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#project-owner)
-
 [Data Collection](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#data-collection)
 
 [Data Preprocessing](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#data-preprocessing)
@@ -49,8 +43,7 @@ This is a Web Application Project, aims to Predict whether a new released song w
 [Conclusion](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#Conclusion) 
 
 [How to Run](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#how-to-run) 
-
-[Acknowledgments](https://github.com/Technocolabs100/Building-a-Model-to-Predict-Hit-Songs-Using-Repeated-Chorus/tree/Team-A#acknowledgments) 
+ 
 ## Project Description
 In this project, we will make a Web App to be used in predicting whether a new released song will get hit or not, by creating a data set of choruses from popular artists and applying supervised Machine Learning (ML) techniques to predict the popularity of their works purely based on the audio features extracted from the chorus.
 
