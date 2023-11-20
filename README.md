@@ -74,16 +74,6 @@ The App will allow you to upload a song directly, or to enter a Spotify link.
 * Somaya Ayman
 * Yousef Shawky
 
-## Team Leads
-* Yousef Shawky (Lead)
-* Iptihal Yousri (Co-Lead)
-
-## Instructor
-**Nour Ibrahim**
-
-## Project Owner
-**Yasin Shah**
-
 ## Data Collection 
 We imported a list of the top 100 songs (Hot-100-songs) from billboard for the last 5 years. These 500 songs are labeled as Popular. 
 Then we searched on Spotify for other tracks for the  existed artists in the popular set. These around 550 tracks found, are labeled as Unpopular.
@@ -240,9 +230,3 @@ It’s that easy... Just click the Link below!
 
 https://starhacker21.pythonanywhere.com/
 
-## Acknowledgments
-
-I would like to express my sincere gratitude to Nour for her outstanding guidance and unwavering support throughout this project.
-Thank you, Nour, for being an exceptional mentor and supervisor. Your contributions have left an indelible mark on this project's journey.
-
-And of Course, much thanks for Technocolabs softwares especially Yasin Shah, for giving us that opportunity to learn and collaborate in that amazing project. 
